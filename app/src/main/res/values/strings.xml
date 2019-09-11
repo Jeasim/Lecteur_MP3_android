@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TPLecteurMP3</string>
+    <string name="btnArtites">Artites</string>
+    <string name="btnChansons">Chansons</string>
+</resources>
